@@ -35,5 +35,3 @@
 * <p> 熟悉 Mysql 数据库CRUD操作 </p>
 * <p> 熟悉 HTML、CSS、JS 等Web技术 </p>
 * <p> 了解 Spring 相关框架、MyBatis 框架 </p>
-
-* <p></p>
